@@ -1,0 +1,16 @@
+.sup-nav {
+    margin-top: 0!important;
+}
+
+.sup-nav .mui-media-body {
+    font-size: 10px!important;
+}
+
+.sub-nav,
+.my-wallet {
+    margin-top: 5px!important;
+}
+
+.my-wallet li {
+    padding: 20px 0!important;
+}
